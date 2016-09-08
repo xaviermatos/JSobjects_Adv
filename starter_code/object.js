@@ -15,16 +15,16 @@ var library =
           ],
           "Rick_Astley":[
             {
-              "album": "Whenever You Need Sombody",
-              "song": "Together Forever",
+              "album": "Whenever You Need Somebody",
+              "song": "Never Gonna Give You Up",
               "year": 1987
             },
             {
-              "album": "Never Gonna Give You Up",
+              "album": "Whenever You Need Somebody",
               "song": "Together Forever",
               "year": 1987
             }
-          ]
+      ]
         },
         "nineties":{
             "Hanson":[
